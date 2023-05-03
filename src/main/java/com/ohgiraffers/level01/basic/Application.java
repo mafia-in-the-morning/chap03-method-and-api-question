@@ -10,5 +10,6 @@ public class Application {
         System.out.println("10과 5의 차는"+c.minusTwoNumber(10,5));
 
 
+
     }
 }
