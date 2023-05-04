@@ -12,6 +12,7 @@ public class Calculator {
         return sum;
 
 
+
     }
     public int checkMaxNumber(int a,int b){
         int result=0;
